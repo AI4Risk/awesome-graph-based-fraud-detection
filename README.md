@@ -2,7 +2,7 @@
 Awesome Graph-based Financial Fraud Detection Papers and Codes
 
 
-# Financial Fraud Detection Papers Based on Graph Neural Networks
+### Financial Fraud Detection Papers Based on Graph Neural Networks
 
 This is a curated list of research papers focusing on financial fraud detection using Graph Neural Networks (GNNs) from various conferences and fields:
 
