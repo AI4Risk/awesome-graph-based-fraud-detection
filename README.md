@@ -39,7 +39,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   
   *Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang*
   
-  ![](https://img.shields.io/badge/Online%20Learning-A52A2A)![](https://img.shields.io/badge/Contrastive%20Learning%20Pre--training-A52A2A) 
+  ![](https://img.shields.io/badge/Online%20Learning-A52A2A) ![](https://img.shields.io/badge/Contrastive%20Learning%20Pre--training-A52A2A) 
 
 ### 2023
 
@@ -47,7 +47,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   
   *Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng*
   
-  ![](https://img.shields.io/badge/Semi--Supervised%20Learning-A52A2A)![](https://img.shields.io/badge/Risk%20Propagation-A52A2A) 
+  ![](https://img.shields.io/badge/Semi--Supervised%20Learning-A52A2A) ![](https://img.shields.io/badge/Risk%20Propagation-A52A2A) 
   
 - **FIW-GNN: A Heterogeneous Graph-Based Learning Model for Credit Card Fraud Detection (DSAA)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10302538)
   
@@ -107,13 +107,13 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Tang, Jianheng and Li, Jiajin and Gao, Ziqi and Li, Jia*
   
-  ![](https://img.shields.io/badge/Spectral%20Filter-A52A2A)![](https://img.shields.io/badge/Right--Shift%20Phenomenon-A52A2A) 
+  ![](https://img.shields.io/badge/Spectral%20Filter-A52A2A) ![](https://img.shields.io/badge/Right--Shift%20Phenomenon-A52A2A) 
   
 - **H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections (WWW)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3512195) [[Code]](https://github.com/shifengzhao/H2-FDetector)
 
   *Shi, Fengzhao and Cao, Yanan and Shang, Yanmin and Zhou, Yuchen and Zhou, Chuan and Wu, Jia*
 
-  ![](https://img.shields.io/badge/Heterogeneity%20Detection-A52A2A)![](https://img.shields.io/badge/Homogeneity%20Detection-A52A2A) 
+  ![](https://img.shields.io/badge/Heterogeneity%20Detection-A52A2A) ![](https://img.shields.io/badge/Homogeneity%20Detection-A52A2A) 
 
 ### 2021
 
@@ -143,7 +143,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Zhang, Ge and Wu, Jia and Yang, Jian and Beheshti, Amin and Xue, Shan and Zhou, Chuan and Sheng, Quan Z*
 
-  ![](https://img.shields.io/badge/Camouflage%20Detection-A52A2A)![](https://img.shields.io/badge/Imbalanced%20Learning-A52A2A) 
+  ![](https://img.shields.io/badge/Camouflage%20Detection-A52A2A) ![](https://img.shields.io/badge/Imbalanced%20Learning-A52A2A) 
 
 ### 2020
 
@@ -151,7 +151,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Dawei Cheng, Xiaoyang Wang, Ying Zhang, Liqing Zhang*
   
-  ![](https://img.shields.io/badge/Spatial--Temporal%20Attention-A52A2A)![](https://img.shields.io/badge/3D%20Convolution-A52A2A) 
+  ![](https://img.shields.io/badge/Spatial--Temporal%20Attention-A52A2A) ![](https://img.shields.io/badge/3D%20Convolution-A52A2A) 
   
 - **Parallel granular neural networks for fast credit card fraud detection (APIN)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/1005055)
 
