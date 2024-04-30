@@ -35,39 +35,41 @@ This list aims to provide a comprehensive overview of research papers that utili
 
 ### 2024
 
-- **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI)**
-  - Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang
-  - [[Paper]](https://doi.org/10.1609/aaai.v38i20.30259)
+- **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI)** [[Paper]](https://doi.org/10.1609/aaai.v38i20.30259)
+  
+  *Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang*
 
 ### 2023
 
-- **Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI)**
-  - Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
-  - [[Paper]](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf)
-  - [[Code]](https://github.com/finint/antifraud)
-- **FIW-GNN: A Heterogeneous Graph-Based Learning Model for Credit Card Fraud Detection (DSAA)**
-  - Yan, Kuan, Gao, Junbin, Matsypura, Dmytro
-  - [[Paper]](https://ieeexplore.ieee.org/abstract/document/10302538)
-- **Unsupervised Fraud Transaction Detection on Dynamic Attributed Networks (DSAA)**
+- **Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI)** [[Paper]](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf) [[Code]](https://github.com/finint/antifraud)
+  
+  *Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng*
+  
+- **FIW-GNN: A Heterogeneous Graph-Based Learning Model for Credit Card Fraud Detection (DSAA)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10302538)
+  
+  *Yan, Kuan, Gao, Junbin, Matsypura, Dmytro*
+  
+- **Unsupervised Fraud Transaction Detection on Dynamic Attributed Networks (DSAA)** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_41)
 
-  - Yangyang Hou, Daixin Wang, Binbin Hu, Ruoyu Zhuang, Zhiqiang Zhang, Jun Zhou, Feng Zhao, Yulin Kang, Zhanwen Qiao
-  - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_41)
-- **Dynamic graph neural network-based fraud detectors against collaborative fraudsters (KBS)**
+  *Yangyang Hou, Daixin Wang, Binbin Hu, Ruoyu Zhuang, Zhiqiang Zhang, Jun Zhou, Feng Zhao, Yulin Kang, Zhanwen Qiao*
+  
+- **Dynamic graph neural network-based fraud detectors against collaborative fraudsters (KBS)** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S095070512300638X)
 
-  - Lingfei Ren, Ruimin Hu, Dengshi Li, Yang Liu, Junhang Wu, Yilong Zang, Wenyi Hu
-  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S095070512300638X)
-- **Anti-Money Laundering by Group-Aware Deep Graph Learning (TKDE)**
+  *Lingfei Ren, Ruimin Hu, Dengshi Li, Yang Liu, Junhang Wu, Yilong Zang, Wenyi Hu*
+  
+- **Anti-Money Laundering by Group-Aware Deep Graph Learning (TKDE) **[[Paper]](https://doi.org/10.1109/TKDE.2023.3272396)
 
-  - Dawei Cheng, Yujia Ye, Sheng Xiang, Zhenwei Ma, Ying Zhang, Changjun Jiang
-  - [[Paper]](https://doi.org/10.1109/TKDE.2023.3272396)
-- **Realistic Synthetic Financial Transactions for Anti-Money Laundering Models (NeurIPS)**
+  *Dawei Cheng, Yujia Ye, Sheng Xiang, Zhenwei Ma, Ying Zhang, Changjun Jiang*
+  
+- **Realistic Synthetic Financial Transactions for Anti-Money Laundering Models (NeurIPS)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5f38404edff6f3f642d6fa5892479c42-Abstract-Datasets_and_Benchmarks.html)
 
-  - Erik Altman, Jovan Blanuša, Luc von Niederhäusern, Beni Egressy, Andreea Anghel, Kubilay Atasu
-  - [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5f38404edff6f3f642d6fa5892479c42-Abstract-Datasets_and_Benchmarks.html)
+  *Erik Altman, Jovan Blanuša, Luc von Niederhäusern, Beni Egressy, Andreea Anghel, Kubilay Atasu*
+  
 - **MIDLG: Mutual Information based Dual Level GNN for Transaction Fraud Complaint Verification (KDD)**
 
   - Wen Zheng, Bingbing Xu, Emiao Lu, Yang Li, Qi Cao, Xuan Zong, and Huawei Shen
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599865)
+  
 - **Internet Financial Fraud Detection Based on Graph Learning (IEEE T-CSS)**
 
   - Ranran Li , Zhaowei Liu , Yuanqing Ma, Dong Yang, Shuaijie Sun
@@ -169,9 +171,9 @@ This list aims to provide a comprehensive overview of research papers that utili
 
 ### 2017
 
-- **Graph Mining assisted Semi-supervised Learning for Fraudulent Cash-out Detection (KDD)**
-  - Yuan Li, Yiheng Sun, and Noshir Contractor
-  - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3110025.3110099)
+- **Graph Mining assisted Semi-supervised Learning for Fraudulent Cash-out Detection (KDD)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3110025.3110099)
+  
+  *Yuan Li, Yiheng Sun, and Noshir Contractor*
 
 ### Related Topics
 
