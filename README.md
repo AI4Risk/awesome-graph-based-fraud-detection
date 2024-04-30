@@ -2,7 +2,6 @@
 Awesome Graph-based Financial Fraud Detection Papers and Codes. This is a curated list of research papers focusing on financial fraud detection using Graph Neural Networks (GNNs) from various conferences and fields:
 
 - **Network Science**
-  
   - [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
   - [COMPLEX NETWORKS](https://www.complexnetworks.org/)
   - [NetSci](https://netscisociety.net/)
@@ -27,41 +26,22 @@ Awesome Graph-based Financial Fraud Detection Papers and Codes. This is a curate
   - [AAAI](https://www.aaai.org/)
   - [AISTATS](http://www.auai.org/)
   - [UAI](http://www.auai.org/)
-- **Databases**
-  
-  - [Scopus](https://www.scopus.com/)
-  - [Web of Science](https://www.webofscience.com/)
-  - [IEEE Xplore](https://ieeexplore.ieee.org/)
-  - [ACM Digital Library](https://dl.acm.org/)
-  - [Science Direct](https://www.sciencedirect.com/)
-
-For related collections on graph-based methods in other domains, please refer to:
-
-- [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
-- [Classification/Regression Tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
-- [Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-- [Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
-- [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 
 This list aims to provide a comprehensive overview of research papers that utilize Graph Neural Networks for financial fraud detection across various academic conferences and disciplines.
 
-
-
-## 2024
+### 2024
 
 - **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI)**
   - Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang
   - [[Paper]](https://doi.org/10.1609/aaai.v38i20.30259)
 
-## 2023
+### 2023
 
 - **Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI)**
-
   - Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
   - [[Paper]](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf)
   - [[Code]](https://github.com/finint/antifraud)
 - **FIW-GNN: A Heterogeneous Graph-Based Learning Model for Credit Card Fraud Detection (DSAA)**
-
   - Yan, Kuan, Gao, Junbin, Matsypura, Dmytro
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/10302538)
 - **Unsupervised Fraud Transaction Detection on Dynamic Attributed Networks (DSAA)**
@@ -89,11 +69,9 @@ This list aims to provide a comprehensive overview of research papers that utili
   - Ranran Li , Zhaowei Liu , Yuanqing Ma, Dong Yang, Shuaijie Sun
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9831118)
 
-
-## 2022
+###  2022
 
 - **The Importance of Future Information in Credit Card Fraud Detection (AISTATS)**
-
   - Van Bach Nguyen, Kanishka Ghosh Dastidar, Michael Granitzer, Wissam Siblini
   - [[Paper]](https://arxiv.org/abs/2204.05265)
 - **Inductive Graph Representation Learning for fraud detection (ESWA)**
@@ -105,7 +83,6 @@ This list aims to provide a comprehensive overview of research papers that utili
   - Wai Weng Lo, Gayan K. Kulatilleke, Mohanad Sarhan, Siamak Layeghy, Marius Portmann
   - [[Paper]](https://doi.org/10.1007/s10489-023-04504-9)
 - **BRIGHT - Graph Neural Networks in Real-time Fraud Detection (CIKM)**
-
   - Mingxuan Lu, Zhichao Han, Susie Xi Rao, Zitao Zhang, Yang Zhao, Yinan Shan, Ramesh Raghunathan, Ce Zhang, Jiawei Jiang
   - [[Paper]](https://arxiv.org/abs/2205.13084)
 - **Ethereum Fraud Detection with Heterogeneous Graph Neural Networks (KDD)**
@@ -117,11 +94,9 @@ This list aims to provide a comprehensive overview of research papers that utili
   - Susie Xi Rao, Shuai Zhang, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang
   - [[Paper]](https://arxiv.org/abs/2011.12193)
 
-
-## 2021
+### 2021
 
 - **CaT-GNN: Enhancing Credit Card Fraud Detection with Causal Time Graph Neural Networks (TKDE)**
-
   - Yifan Duan, Guibin Zhang, Shilong Wang, Xiaojiang Peng, Wang Ziqi, Junyuan Mao, Hao Wu, Xinke Jiang, Kun Wang
   - [[Paper]](https://arxiv.dosf.top/abs/2402.14708)
 - **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI)**
@@ -137,8 +112,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   - Susie Xi Rao, Shuai Zhang, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan Shan, Yang Zhao, Ce Zhang
   - [[Paper]](https://arxiv.org/abs/2012.10831)
 
-
-## 2020
+### 2020
 
 - **Graph Neural Network for Fraud Detection via Spatial-Temporal Attention (TKDE)**
 
@@ -159,7 +133,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   - Ismail Alarab, Simant Prakoonwit, Mohamed Ikbal Nacer
   - [[Paper]](https://www.semanticscholar.org/paper/Competence-of-Graph-Convolutional-Networks-for-in-Alarab-Prakoonwit/1225bc8902daa95f0df8d6a84b3cfdd4a1cca31d)
 
-## 2019
+### 2019
 
 - **Uncovering insurance fraud conspiracy with network learning (SIGIR)**
 
@@ -178,7 +152,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   - Lv, Le and Cheng, Jianbo and Peng, Nanbo and Fan, Min and Zhao, Dongbin, Zhang, Jianhong
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8759109)
 
-## 2018
+### 2018
 
 - **Scalable Graph Learning for Anti-Money Laundering: A First Look (ArXiv)**
 
@@ -189,14 +163,27 @@ This list aims to provide a comprehensive overview of research papers that utili
   - Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, and Le Song``
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3269206.3272010)
 
-## 2017
+### 2017
 
 - **Graph Mining assisted Semi-supervised Learning for Fraudulent Cash-out Detection (KDD)**
   - Yuan Li, Yiheng Sun, and Noshir Contractor
   - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3110025.3110099)
+
+### Related Topics
+
+For related collections on graph-based methods in other domains, please refer to:
+
+- [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
+- [Classification/Regression Tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+- [Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+- [Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+- [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+
+
 
 ## All Thanks to Our Contributors :
 
 <a href="https://github.com/AI4Risk/awesome-graph-based-fraud-detection/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AI4Risk/awesome-graph-based-fraud-detection" />
 </a>
+
