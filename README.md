@@ -1,31 +1,35 @@
-## Awesome Graph-based Fraud Detection Research Papers and Codes
+## Awesome Graph-based Fraud Detection Papers and Codes
 Awesome Graph-based Financial Fraud Detection Papers and Codes. This is a curated list of research papers focusing on financial fraud detection using Graph Neural Networks (GNNs) from various conferences and fields:
 
-- **Network Science**
-  - [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
-  - [COMPLEX NETWORKS](https://www.complexnetworks.org/)
-  - [NetSci](https://netscisociety.net/)
-- **Data Science**
+- **Artificial Intelligence**
   
   - [NeurIPS](https://nips.cc/)
   - [ICML](https://icml.cc/)
-  - [KDD](https://www.kdd.org/)
   - [ICLR](https://iclr.cc/)
-  - [IJCAI](https://www.ijcai.org/)
-  - [IEEE BigData](https://bigdataieee.org/)
-  - [DSAA](http://dsaa2019.dsaa.co/)
-- **Data Mining**
-  
-  - [ICDM](http://icdm2019.bigke.org/)
-  - [SIGIR](https://sigir.org/)
-  - [SDM](https://www.siam.org/conferences/cm/conference/sdm20)
-  - [WWW](https://www2019.thewebconf.org/)
-  - [CIKM](http://www.cikmconference.org/)
-- **Artificial Intelligence**
-  
   - [AAAI](https://www.aaai.org/)
+  - [IJCAI](https://www.ijcai.org/)
   - [AISTATS](http://www.auai.org/)
   - [UAI](http://www.auai.org/)
+  
+- **Data Science**
+  
+  - [KDD](https://www.kdd.org/)
+  - [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
+  - [WWW](https://www2019.thewebconf.org/)
+  
+  - [SIGIR](https://sigir.org/)
+  - [ICDM](http://icdm2019.bigke.org/)
+  - [SDM](https://www.siam.org/conferences/cm/conference/sdm20)
+  - [WSDM](https://www.wsdm-conference.org/)
+  - [CIKM](http://www.cikmconference.org/)
+  
+- **Network Science**
+
+  - [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
+  - [COMPLEX NETWORKS](https://www.complexnetworks.org/)
+  - [NetSci](https://netscisociety.net/)
+
+  
 
 This list aims to provide a comprehensive overview of research papers that utilize Graph Neural Networks for financial fraud detection across various academic conferences and disciplines.
 
