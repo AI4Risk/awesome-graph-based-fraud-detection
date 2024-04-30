@@ -38,12 +38,16 @@ This list aims to provide a comprehensive overview of research papers that utili
 - **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI)** [[Paper]](https://doi.org/10.1609/aaai.v38i20.30259)
   
   *Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang*
+  
+  ![](https://img.shields.io/badge/Online%20Learning-A52A2A)![](https://img.shields.io/badge/Contrastive%20Learning%20Pre--training-A52A2A)
 
 ### 2023
 
 - **Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI)** [[Paper]](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf) [[Code]](https://github.com/finint/antifraud)
   
   *Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng*
+  
+  ![](https://img.shields.io/badge/Semi--Supervised%20Learning-A52A2A)![](https://img.shields.io/badge/Risk%20Propagation-A52A2A)
   
 - **FIW-GNN: A Heterogeneous Graph-Based Learning Model for Credit Card Fraud Detection (DSAA)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10302538)
   
@@ -98,6 +102,18 @@ This list aims to provide a comprehensive overview of research papers that utili
 - **xFraud: Explainable Fraud Transaction Detection (ArXiv)** [[Paper]](https://arxiv.org/abs/2011.12193)
 
   *Susie Xi Rao, Shuai Zhang, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang*
+  
+- **Rethinking Graph Neural Networks for Anomaly Detection (ICML)** [[Paper]](https://proceedings.mlr.press/v162/tang22b.html) [[Code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
+
+  *Tang, Jianheng and Li, Jiajin and Gao, Ziqi and Li, Jia*
+  
+  ![](https://img.shields.io/badge/Spectral%20Filter-A52A2A)![](https://img.shields.io/badge/Right--Shift%20Phenomenon-A52A2A)
+  
+- **H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections (WWW)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3512195) [[Code]](https://github.com/shifengzhao/H2-FDetector)
+
+  *Shi, Fengzhao and Cao, Yanan and Shang, Yanmin and Zhou, Yuchen and Zhou, Chuan and Wu, Jia*
+
+  ![](https://img.shields.io/badge/Heterogeneity%20Detection-A52A2A)![](https://img.shields.io/badge/Homogeneity%20Detection-A52A2A)
 
 ### 2021
 
@@ -116,21 +132,44 @@ This list aims to provide a comprehensive overview of research papers that utili
 - **Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI)** [[Paper]](https://arxiv.org/abs/2012.10831)
 
   *Susie Xi Rao, Shuai Zhang, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan Shan, Yang Zhao, Ce Zhang*
+  
+- **Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection (WWW)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449989) [[Code]](https://github.com/PonderLY/PC-GNN)
+
+  *Liu, Yang and Ao, Xiang and Qin, Zidi and Chi, Jianfeng and Feng, Jinghua and Yang, Hao and He, Qing*
+  
+  ![](https://img.shields.io/badge/Imbalanced%20Learning-A52A2A) 
+  
+- **FRAUDRE: Fraud Detection Dual-Resistant to Graph Inconsistency and Imbalance (ICDM)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9679178) [[Code]](https://github.com/FraudDetection/FRAUDRE)
+
+  *Zhang, Ge and Wu, Jia and Yang, Jian and Beheshti, Amin and Xue, Shan and Zhou, Chuan and Sheng, Quan Z*
+
+  ![](https://img.shields.io/badge/Camouflage%20Detection-A52A2A)![](https://img.shields.io/badge/Imbalanced%20Learning-A52A2A)
 
 ### 2020
 
 - **Graph Neural Network for Fraud Detection via Spatial-Temporal Attention (TKDE)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9204584) [[Code]](https://github.com/finint/antifraud)
 
   *Dawei Cheng, Xiaoyang Wang, Ying Zhang, Liqing Zhang*
+  
+  ![](https://img.shields.io/badge/Spatial--Temporal%20Attention-A52A2A)![](https://img.shields.io/badge/3D%20Convolution-A52A2A)
+  
 - **Parallel granular neural networks for fast credit card fraud detection (APIN)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/1005055)
 
   *Syeda, M, Yan-Qing Zhang, Yi Pan*
+  
 - **FlowScope: Spotting Money Laundering Based on Graphs (AAAI)** [[Paper] ](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)[[Code]](https://github.com/aplaceof/FlowScope)
 
   *Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng*
+  
 - **Competence of Graph Convolutional Networks for Anti-Money Laundering in Bitcoin Blockchain (ICML)** [[Paper]](https://www.semanticscholar.org/paper/Competence-of-Graph-Convolutional-Networks-for-in-Alarab-Prakoonwit/1225bc8902daa95f0df8d6a84b3cfdd4a1cca31d)
 
   *Ismail Alarab, Simant Prakoonwit, Mohamed Ikbal Nacer*
+  
+- **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (CIKM)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3340531.3411903) [[Code]](https://github.com/YingtongDou/CARE-GNN)
+
+  *Dou, Yingtong and Liu, Zhiwei and Sun, Li and Deng, Yutong and Peng, Hao and Yu, Philip S.*
+
+  ![](https://img.shields.io/badge/Camouflage%20Detection-A52A2A) ![](https://img.shields.io/badge/Reinforcement%20Learning-A52A2A)
 
 ### 2019
 
