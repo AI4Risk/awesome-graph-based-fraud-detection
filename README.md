@@ -57,7 +57,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Lingfei Ren, Ruimin Hu, Dengshi Li, Yang Liu, Junhang Wu, Yilong Zang, Wenyi Hu*
   
-- **Anti-Money Laundering by Group-Aware Deep Graph Learning (TKDE) **[[Paper]](https://doi.org/10.1109/TKDE.2023.3272396)
+- **Anti-Money Laundering by Group-Aware Deep Graph Learning (TKDE)** [[Paper]](https://doi.org/10.1109/TKDE.2023.3272396)
 
   *Dawei Cheng, Yujia Ye, Sheng Xiang, Zhenwei Ma, Ying Zhang, Changjun Jiang*
   
@@ -69,7 +69,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Wen Zheng, Bingbing Xu, Emiao Lu, Yang Li, Qi Cao, Xuan Zong, and Huawei Shen*
   
-- **Internet Financial Fraud Detection Based on Graph Learning (IEEE T-CSS) **[[Paper]](https://ieeexplore.ieee.org/abstract/document/9831118)
+- **Internet Financial Fraud Detection Based on Graph Learning (IEEE T-CSS)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9831118)
 
   *Ranran Li , Zhaowei Liu , Yuanqing Ma, Dong Yang, Shuaijie Sun*
 
@@ -83,19 +83,19 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Rafaël Van Belle, Charles Van Damme, Hendrik Tytgat, Jochen De Weerdt*
   
-- **Inspection-L: self-supervised GNN node embeddings for money laundering detection in bitcoin (ArXiv) **[[Paper]](https://doi.org/10.1007/s10489-023-04504-9)
+- **Inspection-L: self-supervised GNN node embeddings for money laundering detection in bitcoin (ArXiv)** [[Paper]](https://doi.org/10.1007/s10489-023-04504-9)
 
   *Wai Weng Lo, Gayan K. Kulatilleke, Mohanad Sarhan, Siamak Layeghy, Marius Portmann*
   
-- **BRIGHT - Graph Neural Networks in Real-time Fraud Detection (CIKM) **[[Paper]](https://arxiv.org/abs/2205.13084)
+- **BRIGHT - Graph Neural Networks in Real-time Fraud Detection (CIKM)** [[Paper]](https://arxiv.org/abs/2205.13084)
   
   *Mingxuan Lu, Zhichao Han, Susie Xi Rao, Zitao Zhang, Yang Zhao, Yinan Shan, Ramesh Raghunathan, Ce Zhang, Jiawei Jiang*
   
-- **Ethereum Fraud Detection with Heterogeneous Graph Neural Networks (KDD) **[[Paper]](https://arxiv.org/abs/2203.12363)
+- **Ethereum Fraud Detection with Heterogeneous Graph Neural Networks (KDD)** [[Paper]](https://arxiv.org/abs/2203.12363)
 
   *Hiroki Kanezashi, Toyotaro Suzumura, Xin Liu, Takahiro Hirofuchi*
   
-- **xFraud: Explainable Fraud Transaction Detection (ArXiv) **[[Paper]](https://arxiv.org/abs/2011.12193)
+- **xFraud: Explainable Fraud Transaction Detection (ArXiv)** [[Paper]](https://arxiv.org/abs/2011.12193)
 
   *Susie Xi Rao, Shuai Zhang, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang*
 
@@ -105,27 +105,27 @@ This list aims to provide a comprehensive overview of research papers that utili
   
   *Yifan Duan, Guibin Zhang, Shilong Wang, Xiaojiang Peng, Wang Ziqi, Junyuan Mao, Hao Wu, Xinke Jiang, Kun Wang*
   
-- **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI) **[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16582)
+- **Towards Consumer Loan Fraud Detection: Graph Neural Networks with Role-Constrained Conditional Random Field (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16582)
 
   *Bingbing Xu, Huawei Shen, Bing-Jie Sun, Rong An, Qi Cao, Xueqi Cheng*
   
-- **Modeling the Field Value Variations and Field Interactions Simultaneously for Fraud Detection (AAAI) **[[Paper]](https://arxiv.org/abs/2008.05600)
+- **Modeling the Field Value Variations and Field Interactions Simultaneously for Fraud Detection (AAAI)** [[Paper]](https://arxiv.org/abs/2008.05600)
 
   *Dongbo Xi, Bowen Song, Fuzhen Zhuang, Yongchun Zhu, Shuai Chen, Tianyi Zhang, Yuan Qi, Qing He*
   
-- **Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI) **[[Paper]](https://arxiv.org/abs/2012.10831)
+- **Suspicious Massive Registration Detection via Dynamic Heterogeneous Graph Neural Networks (AAAI)** [[Paper]](https://arxiv.org/abs/2012.10831)
 
   *Susie Xi Rao, Shuai Zhang, Zhichao Han, Zitao Zhang, Wei Min, Mo Cheng, Yinan Shan, Yang Zhao, Ce Zhang*
 
 ### 2020
 
-- **Graph Neural Network for Fraud Detection via Spatial-Temporal Attention (TKDE) **[[Paper]](https://ieeexplore.ieee.org/abstract/document/9204584) [[Code]](https://github.com/finint/antifraud)
+- **Graph Neural Network for Fraud Detection via Spatial-Temporal Attention (TKDE)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9204584) [[Code]](https://github.com/finint/antifraud)
 
   *Dawei Cheng, Xiaoyang Wang, Ying Zhang, Liqing Zhang*
-- **Parallel granular neural networks for fast credit card fraud detection (APIN) **[[Paper]](https://ieeexplore.ieee.org/abstract/document/1005055)
+- **Parallel granular neural networks for fast credit card fraud detection (APIN)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/1005055)
 
   *Syeda, M, Yan-Qing Zhang, Yi Pan*
-- **FlowScope: Spotting Money Laundering Based on Graphs (AAAI) **[[Paper] ](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)[[Code]](https://github.com/aplaceof/FlowScope)
+- **FlowScope: Spotting Money Laundering Based on Graphs (AAAI)** [[Paper] ](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)[[Code]](https://github.com/aplaceof/FlowScope)
 
   *Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi, Bryan Hooi, He Huang, Xueqi Cheng*
 - **Competence of Graph Convolutional Networks for Anti-Money Laundering in Bitcoin Blockchain (ICML)** [[Paper]](https://www.semanticscholar.org/paper/Competence-of-Graph-Convolutional-Networks-for-in-Alarab-Prakoonwit/1225bc8902daa95f0df8d6a84b3cfdd4a1cca31d)
@@ -138,15 +138,15 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Chen Liang, Ziqi Liu, Bin Liu, Jun Zhou, Xiaolong Li, Shuang Yang, and Yuan Qi*
   
-- **Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics (SIGKDD) **[[Paper]](https://arxiv.org/abs/1908.02591)
+- **Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics (SIGKDD)** [[Paper]](https://arxiv.org/abs/1908.02591)
 
   *Mark Weber, Giacomo Domeniconi, Jie Chen, Daniel Karl I. Weidele, Claudio Bellei, Tom Robinson, Charles E. Leiserson*
   
-- **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI) **[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3884)
+- **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/3884)
 
   *Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi*
   
-- **Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud (ICEFr) **[[Paper]](https://ieeexplore.ieee.org/abstract/document/8759109)
+- **Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud (ICEFr)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/8759109)
 
   *Lv, Le and Cheng, Jianbo and Peng, Nanbo and Fan, Min and Zhao, Dongbin, Zhang, Jianhong*
 
