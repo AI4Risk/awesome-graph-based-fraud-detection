@@ -78,6 +78,9 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Ranran Li , Zhaowei Liu , Yuanqing Ma, Dong Yang, Shuaijie Sun*
 
 ###  2022
+- **Explainable Graph-based Fraud Detection via Neural Meta-graph Search (CIKM)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557598)
+  
+  *Zidi Qin, Yang Liu, Qing He, Xiang Ao*
 
 - **The Importance of Future Information in Credit Card Fraud Detection (AISTATS)** [[Paper]](https://arxiv.org/abs/2204.05265)
   
@@ -170,6 +173,10 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Dou, Yingtong and Liu, Zhiwei and Sun, Li and Deng, Yutong and Peng, Hao and Yu, Philip S.*
 
   ![](https://img.shields.io/badge/Camouflage%20Detection-A52A2A) ![](https://img.shields.io/badge/Reinforcement%20Learning-A52A2A)
+
+- **FlowScope: Spotting Money Laundering Based on Graphs (AAAI)** [[Paper] ](https://aaai.org/ojs/index.php/AAAI/article/download/5906/5762) [[Code]](https://github.com/csqjxiao/FlowScope)
+
+  *Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi , Bryan Hooi, He Huang, Xueqi Cheng*
 
 ### 2019
 
