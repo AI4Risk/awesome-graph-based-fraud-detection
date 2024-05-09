@@ -105,6 +105,9 @@ This list aims to provide a comprehensive overview of research papers that utili
 - **xFraud: Explainable Fraud Transaction Detection (ArXiv)** [[Paper]](https://arxiv.org/abs/2011.12193)
 
   *Susie Xi Rao, Shuai Zhang, Zhichao Han, Zitao Zhang, Wei Min, Zhiyao Chen, Yinan Shan, Yang Zhao, Ce Zhang*
+- **ASA-GNN: Adaptive Sampling and Aggregation-Based Graph Neural Network for Transaction Fraud Detection (TCSS)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10354439)
+
+  *Yue Tian, Guanjun Liu, Jiacun Wang, Mengchu Zhou*
   
 - **Rethinking Graph Neural Networks for Anomaly Detection (ICML)** [[Paper]](https://proceedings.mlr.press/v162/tang22b.html) [[Code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
 
