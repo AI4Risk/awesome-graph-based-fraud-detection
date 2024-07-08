@@ -77,11 +77,11 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Ranran Li , Zhaowei Liu , Yuanqing Ma, Dong Yang, Shuaijie Sun*
 
-- **Removing Camouflage and Revealing Collusion: Leveraging Gang-crime Pattern in Fraudster Detection (KDD-ADS)**[[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599895)[[Code]](https://github.com/lwwang1995/ACD)
+- **Removing Camouflage and Revealing Collusion: Leveraging Gang-crime Pattern in Fraudster Detection (KDD-ADS)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3580305.3599895) [[Code]](https://github.com/lwwang1995/ACD)
 
   *L Wang, H Zhao, C Feng, W Liu, C Huang, M Santoni, M Cristofaro, P Jafrancesco, J Bian*
 
-- **Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering (KDD-ADS)**[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599806)[Code]
+- **Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering (KDD-ADS)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599806)
 
   *X Li, Y Li, X Mo, H Xiao, Y Shen, L Chen*
 
@@ -160,7 +160,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   ![](https://img.shields.io/badge/Camouflage%20Detection-A52A2A) ![](https://img.shields.io/badge/Imbalanced%20Learning-A52A2A) 
   
-- **Anomaly Detection in Dynamic Graphs via Transformer (TKDE)**[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9599560)[Code]
+- **Anomaly Detection in Dynamic Graphs via Transformer (TKDE)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9599560)
 
   *Y Liu, S Pan, YG Wang, F Xiong, L Wang, Q Chen, VCS Lee*
 
