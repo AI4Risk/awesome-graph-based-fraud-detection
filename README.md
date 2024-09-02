@@ -36,10 +36,30 @@ This list aims to provide a comprehensive overview of research papers that utili
 ### 2024
 
 - **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI)** [[Paper]](https://doi.org/10.1609/aaai.v38i20.30259)
-  
+
   *Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang*
-  
+
   ![](https://img.shields.io/badge/Online%20Learning-A52A2A) ![](https://img.shields.io/badge/Contrastive%20Learning%20Pre--training-A52A2A) 
+
+- **Partitioning Message Passing for Graph Fraud Detection (ICLR)** [[Paper]](https://openreview.net/pdf?id=tEgrUrUuwA) [[Code]](https://github.com/Xtra-Computing/PMP)
+
+  *Wei Zhuo , Zemin Liu , Bryan Hooi, Bingsheng He, Guang Tan, Rizal Fathony , Jia Chen*
+
+- **Consistency Training with Learnable Data Augmentation for Graph Anomaly Detection with Limited Supervision (ICLR)** [[Paper]](https://openreview.net/pdf?id=elMKXvhhQ9) [[Code]](https://github.com/Xtra-Computing/ConsisGAD)
+
+  *Nan Chen , Zemin Liu , Bryan Hooi , Bingsheng He , Rizal Fathony , Jun Hu , Jia Chen*
+
+- **Boosting Graph Anomaly Detection with Adaptive Message Passing (ICLR)** [[Paper]](https://openreview.net/pdf?id=CanomFZssu) [[Code]](https://github.com/PasaLab/GADAM)
+
+  *Jingyan Chen, Guanghui Zhu , Chunfeng Yuan, Yihua Huang*
+
+- **DGA-GNN: Dynamic Grouping Aggregation GNN for Fraud Detection (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29067) [[Code]](https://github.com/AtwoodDuan/DGA-GNN)
+
+  *Mingjiang Duan, Tongya Zheng, Yang Gao , Gang Wang, Zunlei Feng, Xinyu Wang*
+
+- **DiG-In-GNN: Discriminative Feature Guided GNN-Based Fraud Detector against Inconsistencies in Multi-Relation Fraud Graph (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28785) [[Code]](https://github.com/GraphBerry/DiG-In-GNN)
+
+  *Jinghui Zhang, Zhengjia Xu, Dingyang Lv, Zhan Shi, Dian Shen, Jiahui Jin, Fang Dong*
 
 ### 2023
 
@@ -84,6 +104,10 @@ This list aims to provide a comprehensive overview of research papers that utili
 - **Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering (KDD-ADS)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599806)
 
   *X Li, Y Li, X Mo, H Xiao, Y Shen, L Chen*
+
+- **Label Information Enhanced Fraud Detection against Low Homophily in Graphs (WWW)** [[Paper]](https://arxiv.org/pdf/2302.10407) [[Code]](https://github.com/hoangdzung/GAGA/tree/master)
+
+  *Yuchen Wang, Jinghui Zhang, Zhengjie Huang, Weibin Li, Shikun Feng, Ziheng Ma, Yu Sun, Dianhai Yu, Fang Dong, Jiahui Jin, Beilun Wang, Junzhou Luo*
 
 
 ###  2022
