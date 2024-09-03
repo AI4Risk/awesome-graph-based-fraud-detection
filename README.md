@@ -35,7 +35,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
 ### 2024
 
-- **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI)** [[Paper]](https://doi.org/10.1609/aaai.v38i20.30259)
+- **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI)** [[Paper]](https://doi.org/10.1609/aaai.v38i20.30259)[[Code]](https://github.com/AI4Risk/POCL)
 
   *Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang*
 
