@@ -35,6 +35,22 @@ This list aims to provide a comprehensive overview of research papers that utili
 
 ### 2024
 
+- **Subgraph Patterns Enhanced Graph Neural Network for Fraud Detection (DASFAA)** [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_26)
+  
+  *Yao Zou, Sheng Xiang, Qijun Miao, Dawei Cheng, Changjun Jiang* 
+
+
+- **Effective High-order Graph Representation Learning for Credit Card Fraud Detection (IJCAI)** [[Paper]](https://www.ijcai.org/proceedings/2024/0839.pdf) 
+
+  *Yao Zou, Dawei Cheng* 
+
+
+- **Safeguarding Fraud Detection from Attacks: A Robust Graph Learning Approach (IJCAI)** [[Paper]](https://www.ijcai.org/proceedings/2024/0830.pdf) 
+
+  *Jiasheng Wu, Xin Liu, Dawei Cheng, Yi Ouyang, Xian Wu, Yefeng Zheng* 
+
+
+
 - **Pre-trained Online Contrastive Learning for Insurance Fraud Detection (AAAI)** [[Paper]](https://doi.org/10.1609/aaai.v38i20.30259)
   
   *Rui Zhang, Dawei Cheng, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng, Changjun Jiang*
