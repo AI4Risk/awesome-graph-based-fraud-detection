@@ -10,9 +10,7 @@ Awesome Graph-based Financial Fraud Detection Papers and Codes.
 
 ## Conference & Journal Article
 This is a curated list of research papers focusing on financial fraud detection using Graph Neural Networks (GNNs) from various conferences and Journals:
-
 - **Artificial Intelligence**
-  
   - [NeurIPS](https://nips.cc/)
   - [ICML](https://icml.cc/)
   - [ICLR](https://iclr.cc/)
@@ -20,9 +18,7 @@ This is a curated list of research papers focusing on financial fraud detection 
   - [IJCAI](https://www.ijcai.org/)
   - [AISTATS](http://www.auai.org/)
   - [UAI](http://www.auai.org/)
-  
 - **Data Science**
-  
   - [KDD](https://www.kdd.org/)
   - [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
   - [WWW](https://www2019.thewebconf.org/)
@@ -31,14 +27,10 @@ This is a curated list of research papers focusing on financial fraud detection 
   - [SDM](https://www.siam.org/conferences/cm/conference/sdm20)
   - [WSDM](https://www.wsdm-conference.org/)
   - [CIKM](http://www.cikmconference.org/)
-  
 - **Network Science**
-
   - [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
   - [COMPLEX NETWORKS](https://www.complexnetworks.org/)
   - [NetSci](https://netscisociety.net/)
-
-  
 
 This list aims to provide a comprehensive overview of research papers that utilize Graph Neural Networks for financial fraud detection across various academic conferences and disciplines.
 
