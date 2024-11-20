@@ -5,6 +5,8 @@ This repository is the official code of our survey paper:
 - **Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2024)** [[Paper]](https://arxiv.org/abs/2411.05815) [[PDF]](2024-FCS-FraudSurvey.pdf) [[Cite]](https://github.com/AI4Risk/awesome-graph-based-fraud-detection#citing)
   
   *Dawei Cheng, Yao Zou, Sheng Xiang, Changjun Jiang* 
+  
+  ![](https://img.shields.io/badge/Survey%20Paper-A52A2A)
 
 In our literature review, we collect, classify, and discuss recent graph-based
 fraud detection papers. Below is the detailed classification and paper with code (if available).
