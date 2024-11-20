@@ -1,5 +1,11 @@
-## Awesome Graph-based Fraud Detection Papers and Codes
-Awesome Graph-based Financial Fraud Detection Papers and Codes. This is a curated list of research papers focusing on financial fraud detection using Graph Neural Networks (GNNs) from various conferences and fields:
+# Awesome Graph-based Fraud Detection Papers and Codes
+Awesome Graph-based Financial Fraud Detection Papers and Codes. 
+
+## Survey Paper
+- [Graph Neural Networks for Financial Fraud Detection: A Review](http://arxiv.org/abs/2411.05815) (Frontiers of Computer Science, 2024)
+
+## Conference & Journal Article
+This is a curated list of research papers focusing on financial fraud detection using Graph Neural Networks (GNNs) from various conferences and Journals:
 
 - **Artificial Intelligence**
   
@@ -16,7 +22,6 @@ Awesome Graph-based Financial Fraud Detection Papers and Codes. This is a curate
   - [KDD](https://www.kdd.org/)
   - [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
   - [WWW](https://www2019.thewebconf.org/)
-  
   - [SIGIR](https://sigir.org/)
   - [ICDM](http://icdm2019.bigke.org/)
   - [SDM](https://www.siam.org/conferences/cm/conference/sdm20)
@@ -40,7 +45,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Yao Zou, Sheng Xiang, Qijun Miao, Dawei Cheng, Changjun Jiang* 
 
 
-- **Effective High-order Graph Representation Learning for Credit Card Fraud Detection (IJCAI)** [[Paper]](https://www.ijcai.org/proceedings/2024/0839.pdf) 
+- **Effective High-order Graph Representation Learning for Credit Card Fraud Detection (IJCAI)** [[Paper]](https://www.ijcai.org/proceedings/2024/0839.pdf) [[Code]](https://github.com/finint/antifraud) 
 
   *Yao Zou, Dawei Cheng* 
 
@@ -275,6 +280,17 @@ For related collections on graph-based methods in other domains, please refer to
 - [Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 - [Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 - [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+
+## Citing
+If you find this literature review is useful for your research, please consider citing the following papers:
+    
+
+    @article{cheng2024graph,
+        title={Graph Neural Networks for Financial Fraud Detection: A Review},
+        author={Cheng, Dawei and Zou, Yao and Xiang, Sheng and Jiang, Changjun},
+        journal={arXiv preprint arXiv:2411.05815},
+        year={2024}
+    }
 
 
 
