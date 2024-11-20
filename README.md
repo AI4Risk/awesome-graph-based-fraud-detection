@@ -2,7 +2,11 @@
 Awesome Graph-based Financial Fraud Detection Papers and Codes. 
 
 ## Survey Paper
-- [Graph Neural Networks for Financial Fraud Detection: A Review](http://arxiv.org/abs/2411.05815) (Frontiers of Computer Science, 2024)
+- **Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2024)** [[Paper]](doc/2024-FCS-FraudSurvey.pdf)
+  
+  *Dawei Cheng, Yao Zou, Sheng Xiang, Changjun Jiang* 
+
+
 
 ## Conference & Journal Article
 This is a curated list of research papers focusing on financial fraud detection using Graph Neural Networks (GNNs) from various conferences and Journals:
@@ -39,6 +43,10 @@ This is a curated list of research papers focusing on financial fraud detection 
 This list aims to provide a comprehensive overview of research papers that utilize Graph Neural Networks for financial fraud detection across various academic conferences and disciplines.
 
 ### 2024
+- **Parallel Graph Learning with Temporal Stamp Encoding for Fraudulent Transactions Detections (IEEE T-BD)** [Paper](https://ieeexplore.ieee.org/abstract/document/10753618/)
+
+  *Jiacheng Ma, Sheng Xiang, Qiang Li, Liangyu Yuan, Dawei Cheng, Changjun Jiang*
+
 
 - **Subgraph Patterns Enhanced Graph Neural Network for Fraud Detection (DASFAA)** [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-5572-1_26)
   
