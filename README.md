@@ -48,7 +48,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Yao Zou, Sheng Xiang, Qijun Miao, Dawei Cheng, Changjun Jiang* 
 
 
-- **Effective High-order Graph Representation Learning for Credit Card Fraud Detection (IJCAI)** [[Paper]](https://www.ijcai.org/proceedings/2024/0839.pdf) [[Code]](https://github.com/finint/antifraud) 
+- **Effective High-order Graph Representation Learning for Credit Card Fraud Detection (IJCAI)** [[Paper]](https://arxiv.org/pdf/2503.01556) [[Code]](https://github.com/finint/antifraud) 
 
   *Yao Zou, Dawei Cheng* 
 
